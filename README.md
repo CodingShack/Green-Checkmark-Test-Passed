@@ -1,7 +1,9 @@
 # Green-Checkmark-Test-Passed-
-# -----------------------------
-# About the Project: This is a Code written in Python to Print Green Coloured Test Passed with Tickmark Message!
-# Author: Aman Chourasia
-# Website: www.amanchourasia.in
-# Date of Creation: 17th July 2021
-# -----------------------------
+-----------------------------<br />
+About the Project: This is a Code written in Python to Print Green Coloured Test Passed with Tickmark Message!<br />
+<br />
+Author: Aman Chourasia<br />
+Website: www.amanchourasia.in<br />
+<br />
+Date of Creation: 17th July 2021<br />
+-----------------------------<br />
