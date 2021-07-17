@@ -1,4 +1,4 @@
-# Green-Checkmark-Test-Passed-
+# Green-Checkmark-Test-Passed
 -----------------------------<br />
 About the Project: This is a Code written in Python to Print Green Coloured Test Passed with Tickmark Message!<br />
 <br />
